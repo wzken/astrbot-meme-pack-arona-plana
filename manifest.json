@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "wzken-arona-plana-semantic-001",
+  "name": "阿罗娜 / 普拉娜 · target 语义表情包",
+  "version": "1.0.0",
+  "description": "仅使用三个压缩包的 target GIF。去重后 180 个表情，按实际画面重分类，其中 1 个待复核；无本机向量。",
+  "author": "wzken（整理）；原素材作者待补充",
+  "homepage": "https://github.com/wzken/astrbot-meme-pack-arona-plana",
+  "license": "LicenseRef-Original-Rights-Reserved",
+  "tags": [
+    "semantic",
+    "v2",
+    "community",
+    "arona",
+    "plana"
+  ],
+  "previews": [
+    "previews/cover.jpg"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "wzken/astrbot-meme-pack-arona-plana",
+    "ref": "v1.0.0",
+    "subpath": "."
+  },
+  "categories": {
+    "happy": {
+      "description": "画面有明确微笑或笑脸，适合开心、友好和积极回应。"
+    },
+    "sad": {
+      "description": "画面有明确泪珠或泪流，适合哭泣、委屈和难过。"
+    },
+    "angry": {
+      "description": "画面有明显皱眉攥拳、挑衅手势或威胁姿态，适合不满、反对和警告。"
+    },
+    "sigh": {
+      "description": "半垂眼、平直嘴、叹气或省略号等平淡、无语的表达。"
+    },
+    "shy": {
+      "description": "明确脸红、低头遮脸等害羞的表达。"
+    },
+    "surprised": {
+      "description": "睁大眼、感叹号或突然拉近的吃惊反应。"
+    },
+    "confused": {
+      "description": "问号、旋涡眼或带汗皱眉等疑问、迷糊的表达。"
+    },
+    "like": {
+      "description": "画面有爱心、比心、吻印、玫瑰或爱心信封，适合亲近和喜欢。"
+    },
+    "cpu": {
+      "description": "画面有加载图标，用于等待、思考或卡顿。"
+    },
+    "gesture": {
+      "description": "可确认的手势、举物与动作，例如点赞、举手、拿平板、拉衣服、咬球和摊手。"
+    },
+    "cool": {
+      "description": "戴墨镜的角色图，用于耍帅、得意或轻松回应。"
+    },
+    "food": {
+      "description": "明确食物、端碗或进食动作，用于饮食与享用食物的话题。"
+    },
+    "gacha": {
+      "description": "展示抽卡卡片、宝石转换、举平板和抽卡配色，用于游戏抽卡话题。"
+    },
+    "dance": {
+      "description": "完整动画表现跳舞、摇摆、蹲起、转身或转椅动作。"
+    },
+    "tongue": {
+      "description": "动画中明确伸出长舌、舔屏或舔宝石的搞怪动作。"
+    },
+    "meow": {
+      "description": "猫咪身体、猫耳造型或摇尾巴动作，用于猫咪与卖萌话题。"
+    },
+    "fool": {
+      "description": "真人拼脸、热狗造型、头像变形缩放、像素彩虹和其他明显恶搞画面。"
+    },
+    "see": {
+      "description": "探头偷看、放大镜或望远镜观察画面。"
+    },
+    "work": {
+      "description": "明确电脑或抱纸张跑步的画面，用于工作和忙碌话题。"
+    },
+    "sleep": {
+      "description": "困倦、打哈欠或想睡觉的表情。"
+    },
+    "character": {
+      "description": "没有明确情绪动作的角色图、头像或人物拼贴，不补写特定情绪。"
+    },
+    "scene": {
+      "description": "椅子、星空、沙滩、空旷场地等场景或日常姿态。"
+    },
+    "game": {
+      "description": "《碧蓝档案》标志或标题动画。"
+    },
+    "needs_review": {
+      "description": "可见物体或表情含义无法可靠确定，等待用户确认后再归入聊天分类。"
+    }
+  }
+}

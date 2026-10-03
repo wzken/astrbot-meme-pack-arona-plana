@@ -1,0 +1,13 @@
+{
+  "target_only": true,
+  "all_180_gif_bytes_identical_to_targets": true,
+  "every_frame_decoded": true,
+  "upstream_manifest_and_transfer_valid": true,
+  "semantic_metadata_complete": true,
+  "input_gifs": 182,
+  "kept_gifs": 180,
+  "classified": 179,
+  "needs_review": 1,
+  "archive_crc_valid": true,
+  "checked_at": "2026-10-03T14:03:01.760848+00:00"
+}

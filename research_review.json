@@ -1,0 +1,315 @@
+[
+  {
+    "asset_id": 20,
+    "source_key": "PNG/20",
+    "user_note": "沾血的石头 表现想打人",
+    "original_caption": "阿罗娜双手高举一个棕灰色圆状物，表面有红色部分。",
+    "original_tags": [
+      "阿罗娜",
+      "举高",
+      "圆状物"
+    ],
+    "category": "angry",
+    "caption": "阿罗娜双手高举沾血的石头，摆出想打人的警告姿态。",
+    "tags": [
+      "阿罗娜",
+      "石头",
+      "想打人",
+      "警告",
+      "生气"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 39,
+    "source_key": "PNG/39",
+    "user_note": "小生气 或者小害羞",
+    "original_caption": "普拉娜闭紧眼睛，双手缩在脸边，嘴巴是波浪形。",
+    "original_tags": [
+      "普拉娜",
+      "闭眼",
+      "紧张表情"
+    ],
+    "category": "needs_review",
+    "caption": "普拉娜闭紧眼睛，双手缩在脸边，嘴巴呈波浪形；用户认为可能是小生气或小害羞，具体情绪未确定。",
+    "tags": [
+      "普拉娜",
+      "闭眼",
+      "缩手",
+      "情绪待确认"
+    ],
+    "resolved": false,
+    "findings": "搜索没有找到这张图的原作者解释。用户给出两个可能情绪，不能据此标为已确认；继续留在审核分类。",
+    "sources": []
+  },
+  {
+    "asset_id": 60,
+    "source_key": "PNG/60",
+    "user_note": "对于必然会失败的场景",
+    "original_caption": "普拉娜头顶红色光环，脸旁有对白气泡和竖排小字。",
+    "original_tags": [
+      "普拉娜",
+      "对白",
+      "文字梗"
+    ],
+    "category": "fool",
+    "caption": "普拉娜配上「会赢喔」的对白；用于明知要失败却宣称会赢的反讽、立失败旗场景。",
+    "tags": [
+      "普拉娜",
+      "会赢喔",
+      "反讽",
+      "失败预感",
+      "立flag",
+      "五条悟梗"
+    ],
+    "resolved": true,
+    "findings": "检索到「会赢的 / 会赢哦」的梗义：必胜宣言与实际败北形成反差。target 可见文字与用户填写的失败场景相符。",
+    "sources": [
+      "https://moegirl.uk/会赢的"
+    ]
+  },
+  {
+    "asset_id": 64,
+    "source_key": "PNG/64",
+    "user_note": "困倦",
+    "original_caption": "阿罗娜闭着眼睛、嘴巴张大，头顶有蓝色弯曲线。",
+    "original_tags": [
+      "阿罗娜",
+      "张嘴",
+      "闭眼"
+    ],
+    "category": "sleep",
+    "caption": "阿罗娜闭着眼睛张大嘴巴，露出困倦、打哈欠的表情。",
+    "tags": [
+      "阿罗娜",
+      "困倦",
+      "打哈欠",
+      "想睡觉"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 81,
+    "source_key": "GIF/15",
+    "user_note": "哭泣",
+    "original_caption": "阿罗娜闭着眼睛摇头、张嘴，眼角附近有水滴形标记。",
+    "original_tags": [
+      "阿罗娜",
+      "摇头",
+      "张嘴"
+    ],
+    "category": "sad",
+    "caption": "阿罗娜闭眼张嘴哭泣、摇头，眼角附近有泪滴标记。",
+    "tags": [
+      "阿罗娜",
+      "哭泣",
+      "摇头",
+      "泪滴"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 88,
+    "source_key": "GIF/22",
+    "user_note": "拉老师衣服",
+    "original_caption": "阿罗娜身体向后倾，闭眼张嘴，脸上有汗滴。",
+    "original_tags": [
+      "阿罗娜",
+      "后仰",
+      "汗滴"
+    ],
+    "category": "gesture",
+    "caption": "阿罗娜用双手拉着老师的衣服，身体向后倾，闭眼张嘴用力拉扯。",
+    "tags": [
+      "阿罗娜",
+      "老师",
+      "拉衣服",
+      "拉扯"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 98,
+    "source_key": "GIF/32",
+    "user_note": "哭喊",
+    "original_caption": "阿罗娜站在教室里，双手放在腿前，闭眼张嘴晃动。",
+    "original_tags": [
+      "阿罗娜",
+      "教室",
+      "张嘴"
+    ],
+    "category": "sad",
+    "caption": "阿罗娜站在教室里，双手放在腿前，闭眼张嘴哭喊，身体晃动。",
+    "tags": [
+      "阿罗娜",
+      "教室",
+      "哭喊",
+      "大哭"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 104,
+    "source_key": "GIF/38",
+    "user_note": "轻松 表情貌似无含义",
+    "original_caption": "阿罗娜闭眼张嘴，伸开双手摆动，最后抬起一只手。",
+    "original_tags": [
+      "阿罗娜",
+      "摊手",
+      "闭眼"
+    ],
+    "category": "gesture",
+    "caption": "阿罗娜闭眼张嘴，轻松地摊开双手摆动，最后抬起一只手；没有确认的特定情绪含义。",
+    "tags": [
+      "阿罗娜",
+      "摊手",
+      "轻松",
+      "抬手"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 108,
+    "source_key": "GIF/42",
+    "user_note": "碧蓝档案的 往下掉卡片是招募书",
+    "original_caption": "阿罗娜站在一列卡片状物品上，旁边的简笔画人物伸出手。",
+    "original_tags": [
+      "阿罗娜",
+      "卡片堆",
+      "简笔画"
+    ],
+    "category": "gacha",
+    "caption": "阿罗娜站在堆叠的招募书上，招募书向下掉落，旁边的简笔画人物伸出手。",
+    "tags": [
+      "阿罗娜",
+      "招募书",
+      "抽卡",
+      "掉落",
+      "卡片堆"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 130,
+    "source_key": "GIF/64",
+    "user_note": "人物在转圈",
+    "original_caption": "普拉娜站在黑色长方形物体后面，物体正面有矩形标记。",
+    "original_tags": [
+      "普拉娜",
+      "黑色长方形物体"
+    ],
+    "category": "dance",
+    "caption": "普拉娜与身前的黑色底座一起反复转圈，动画展示正面、侧面和背面。",
+    "tags": [
+      "普拉娜",
+      "转圈",
+      "旋转",
+      "整活"
+    ],
+    "resolved": true,
+    "findings": "查看完整 78 帧，确认人物与底座转圈。此前等间隔抽样恰好落在正面，导致漏看旋转；已修正。底座不认定为键盘或电脑。",
+    "sources": []
+  },
+  {
+    "asset_id": 157,
+    "source_key": "ARONA/1",
+    "user_note": "惊恐",
+    "original_caption": "普拉娜露出的眼睛带灰色纹理，嘴巴张开，额头有阴影。",
+    "original_tags": [
+      "普拉娜",
+      "眼睛纹理",
+      "阴影"
+    ],
+    "category": "surprised",
+    "caption": "普拉娜眼睛带灰色纹理，嘴巴张开，额头有阴影，露出惊恐表情。",
+    "tags": [
+      "普拉娜",
+      "惊恐",
+      "害怕",
+      "阴影"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 161,
+    "source_key": "ARONA/5",
+    "user_note": "咬着球",
+    "original_caption": "普拉娜双手抱着一个黑色圆球。",
+    "original_tags": [
+      "普拉娜",
+      "黑色圆球"
+    ],
+    "category": "gesture",
+    "caption": "普拉娜双手抱着一个黑色圆球，嘴巴咬住球的上缘。",
+    "tags": [
+      "普拉娜",
+      "黑球",
+      "咬球",
+      "抱球"
+    ],
+    "resolved": true,
+    "findings": "能确认咬球动作，不能确认黑球身份。检索到 meme-generator 的「普拉娜吃」模板，但没有证据证明本图属于该模板，因此不套用其出处或物品解释。",
+    "sources": [
+      "https://github.com/MemeCrafters/meme-generator/blob/main/meme_generator/memes/plana_eat/__init__.py"
+    ]
+  },
+  {
+    "asset_id": 172,
+    "source_key": "ARONA/16",
+    "user_note": "卖萌",
+    "original_caption": "普拉娜双手像猫爪一样摆在脸前，闭紧眼睛，张着嘴。",
+    "original_tags": [
+      "普拉娜",
+      "猫爪手势",
+      "张嘴"
+    ],
+    "category": "meow",
+    "caption": "普拉娜双手像猫爪一样摆在脸前，闭紧眼睛张嘴卖萌。",
+    "tags": [
+      "普拉娜",
+      "猫爪手势",
+      "卖萌"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  },
+  {
+    "asset_id": 173,
+    "source_key": "ARONA/17",
+    "user_note": "小生气",
+    "original_caption": "普拉娜闭紧眼睛、张大嘴巴，头旁有白色气团。",
+    "original_tags": [
+      "普拉娜",
+      "张嘴",
+      "白色气团"
+    ],
+    "category": "angry",
+    "caption": "普拉娜闭紧眼睛、张大嘴巴，头旁冒出白色气团，表达小生气。",
+    "tags": [
+      "普拉娜",
+      "小生气",
+      "气团",
+      "不满"
+    ],
+    "resolved": true,
+    "findings": "按用户备注和 target 画面确认；未找到能逐图证明含义的原作者说明。",
+    "sources": []
+  }
+]

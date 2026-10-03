@@ -1,0 +1,61 @@
+{
+  "format": "target-meme-classification-review",
+  "changes": [
+    {
+      "source_key": "PNG/20",
+      "note": "沾血的石头 表现想打人"
+    },
+    {
+      "source_key": "PNG/39",
+      "note": "小生气 或者小害羞"
+    },
+    {
+      "source_key": "PNG/60",
+      "note": "对于必然会失败的场景"
+    },
+    {
+      "source_key": "PNG/64",
+      "note": "困倦"
+    },
+    {
+      "source_key": "GIF/15",
+      "note": "哭泣"
+    },
+    {
+      "source_key": "GIF/22",
+      "note": "拉老师衣服"
+    },
+    {
+      "source_key": "GIF/32",
+      "note": "哭喊"
+    },
+    {
+      "source_key": "GIF/38",
+      "note": "轻松 表情貌似无含义"
+    },
+    {
+      "source_key": "GIF/42",
+      "note": "碧蓝档案的 往下掉卡片是招募书"
+    },
+    {
+      "source_key": "GIF/64",
+      "note": "人物在转圈"
+    },
+    {
+      "source_key": "ARONA/1",
+      "note": "惊恐"
+    },
+    {
+      "source_key": "ARONA/5",
+      "note": "咬着球"
+    },
+    {
+      "source_key": "ARONA/16",
+      "note": "卖萌"
+    },
+    {
+      "source_key": "ARONA/17",
+      "note": "小生气"
+    }
+  ]
+}

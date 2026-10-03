@@ -1,0 +1,27 @@
+[
+  {
+    "asset_id": 39,
+    "source_key": "PNG/39",
+    "archive": "shitim_PNG_1_3OYZtc.zip",
+    "original_path": "target/39.gif",
+    "relative_path": "memes/needs_review/shitim_PNG_39.gif",
+    "category": "needs_review",
+    "category_name": "待人工复核",
+    "caption": "普拉娜闭紧眼睛，双手缩在脸边，嘴巴呈波浪形；用户认为可能是小生气或小害羞，具体情绪未确定。",
+    "tags": [
+      "普拉娜",
+      "闭眼",
+      "缩手",
+      "情绪待确认"
+    ],
+    "visible_text": "",
+    "content_sha256": "73a5a12ba15e61e8524a3785b310cd0757a9d3d1f7c1034701bcfc9eb0331a38",
+    "frames": 1,
+    "needs_review": true,
+    "review_question": "备注为「小生气 或者小害羞」；搜索未找到原作者解释，具体情绪仍未确定。",
+    "suggestions": "shy / angry",
+    "user_note": "小生气 或者小害羞",
+    "research_findings": "搜索没有找到这张图的原作者解释。用户给出两个可能情绪，不能据此标为已确认；继续留在审核分类。",
+    "research_sources": []
+  }
+]
